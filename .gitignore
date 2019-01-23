@@ -8,3 +8,10 @@ examples/maths
 examples/smallc
 examples/foobar
 examples/tree_traversal
+
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl

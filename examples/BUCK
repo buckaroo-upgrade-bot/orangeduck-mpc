@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'doge',
+  srcs = [
+    'doge.c',
+  ],
+  deps = [
+    '//:mpc',
+  ],
+)
